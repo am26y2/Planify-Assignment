@@ -51,7 +51,7 @@ header {
 }
 .sticky {
   position: sticky;
-  top: 60px;
+  top: 120px;
 }
 .right {
   margin: 20px 30px;
